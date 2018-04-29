@@ -1,6 +1,6 @@
 # Drupal < 7.58 - 'Drupalgeddon3' Authenticated Remote Code Execution (Metasploit)
 Author:
-- [SixP4ck3r](https://twitter.com/sixp4ck3r)
+- [SixP4ck3r](https://twitter.com/sixp4ck3r) Research and port to MSF
 - [Blaklis](https://www.exploit-db.com/exploits/44542/) Initial POC
 
 Original Exploit:
