@@ -5,6 +5,7 @@ Author:
 
 Original Exploit:
 - [exploit-db.com](https://www.exploit-db.com/exploits/44542/)
+
 Notes:
 - CVE-2018-7602 / SA-CORE-2018-004
 - A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x.
