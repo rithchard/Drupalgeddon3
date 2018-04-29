@@ -1,7 +1,10 @@
 # Drupal < 7.58 - 'Drupalgeddon3' Authenticated Remote Code Execution (Metasploit)
 Author:
 - [SixP4ck3r](https://twitter.com/sixp4ck3r)
+- [Blaklis](https://www.exploit-db.com/exploits/44542/) Initial POC
 
+Original Exploit:
+- [exploit-db.com](https://www.exploit-db.com/exploits/44542/)
 Notes:
 - CVE-2018-7602 / SA-CORE-2018-004
 - A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x.
