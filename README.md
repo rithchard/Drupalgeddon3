@@ -9,7 +9,7 @@ This potentially allows attackers to exploit multiple attack vectors on a Drupal
 Which could result in the site being compromised.
 This vulnerability is related to Drupal core - Highly critical - Remote Code Execution
 
-### Example
+### Example Metasploit
 <img src='https://i.imgur.com/9qRHfZ7.png'/>
 
 
