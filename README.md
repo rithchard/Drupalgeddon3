@@ -3,8 +3,14 @@ Author:
 - [SixP4ck3r](https://twitter.com/sixp4ck3r) Research and port to MSF
 - [Blaklis](https://www.exploit-db.com/exploits/44542/) Initial POC
 
+Metasploit Module for Drupalgeddon 3:
+- [https://www.exploit-db.com/exploits/44557/](https://www.exploit-db.com/exploits/44557/)
+
 Original Exploit:
 - [exploit-db.com](https://www.exploit-db.com/exploits/44542/)
+
+Drupal Afected Versions & Details:
+- [https://www.drupal.org/sa-core-2018-004](https://www.drupal.org/sa-core-2018-004)
 
 Notes:
 - CVE-2018-7602 / SA-CORE-2018-004
